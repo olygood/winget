@@ -7,8 +7,9 @@ installer le fichier :
 > url microsoft pour la doc :  
 > https://docs.microsoft.com/fr-fr/windows/package-manager/winget/  
   
-> Les Commandes  
+> ### Les Commandes   
 La préversion actuelle de l’outil winget prend en charge les commandes suivantes.  
+> winget info  // info sur les commande ..etc sur winget  
 
 hash :	Génère le hachage SHA256 pour le programme d’installation.  
 help :	Affiche l’aide relative aux commandes de l’outil winget.  
@@ -25,14 +26,13 @@ winget --help
 Options :  
 > La préversion actuelle de l’outil winget prend en charge les options suivantes.  
 
--v,--version : Cette option retourne la version actuelle de winget.
---info : Fournit des informations détaillées sur winget, y compris les liens vers la licence et la déclaration de confidentialité.
--?, --help : 	Fournit une aide supplémentaire sur winget.
-Formats de programmes d’installation pris en charge
-La préversion actuelle de l’outil winget prend en charge les types suivants de programmes d’installation.
-EXE
-MSIX
-MSI
+-v,--version : Cette option retourne la version actuelle de winget.   
+--info : Fournit des informations détaillées sur winget, y compris les liens vers la licence et la déclaration de confidentialité.    
+-?, --help : 	Fournit une aide supplémentaire sur winget. Formats de programmes d’installation pris en charge    
+La préversion actuelle de l’outil winget prend en charge les types suivants de programmes d’installation.  
+EXE  
+MSIX  
+MSI  
 
 link : https://winstall.app/  
 link : https://github.com/microsoft/winget-cli  
