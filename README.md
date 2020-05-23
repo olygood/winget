@@ -9,7 +9,7 @@ installer le fichier :
   
 > ### Les Commandes   
 La préversion actuelle de l’outil winget prend en charge les commandes suivantes.  
-> winget info  // info sur les commande ..etc sur winget  
+> winget info  // info sur les commandes ..etc sur winget  
 
 hash :	Génère le hachage SHA256 pour le programme d’installation.  
 help :	Affiche l’aide relative aux commandes de l’outil winget.  
